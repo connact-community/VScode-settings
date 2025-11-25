@@ -1,0 +1,7 @@
+{
+	"CSS Comment": {
+		"prefix": "cmt",
+		"body": ["/* ============= ${1:Comment} ============= */$0"],
+		"description": "CSS-Comment"
+	}
+}

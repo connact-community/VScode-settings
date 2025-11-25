@@ -1,0 +1,148 @@
+{
+	//Terminal
+	"terminal.integrated.fontSize": 17,
+	"terminal.integrated.fontFamily": "Adwaita Mono",
+	"terminal.integrated.fontWeight": "bold",
+	"terminal.integrated.smoothScrolling": true,
+	"terminal.integrated.cursorStyle": "line",
+
+	//Explorer
+	"explorer.compactFolders": false,
+	"explorer.confirmDragAndDrop": false,
+	"explorer.confirmDelete": false,
+
+	//Window
+	"window.restoreWindows": "none",
+	"window.customTitleBarVisibility": "auto",
+
+	//Prettier
+	"[csharp]": {
+		"editor.defaultFormatter": "ms-dotnettools.csharp"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"prettier.useTabs": true,
+	"prettier.semi": false,
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleQuote": true,
+	"prettier.arrowParens": "avoid",
+
+	//Other
+	"security.workspace.trust.untrustedFiles": "open",
+	"workbench.editor.editorActionsLocation": "hidden",
+	"workbench.editor.empty.hint": "hidden",
+	"workbench.layoutControl.enabled": false,
+	"workbench.activityBar.location": "hidden",
+	"workbench.startupEditor": "none",
+	"workbench.list.smoothScrolling": true,
+	"workbench.tree.indent": 18,
+	"workbench.panel.showLabels": false,
+	"workbench.statusBar.visible": false,
+	"editor.fontSize": 15,
+	"workbench.sideBar.location": "left",
+	"workbench.colorCustomizations": {
+		"terminal.foreground": "#e1ddff"
+	},
+
+	//Editor
+	"[shellscript]": {
+		"editor.defaultFormatter": "foxundermoon.shell-format"
+	},
+	"editor.tokenColorCustomizations": {
+		"[Tokyo City]": {
+			"textMateRules": [
+				{
+					"scope": "comment.line",
+					"settings": {
+						"foreground": "#e1ddff", // Example of a comment
+						"fontStyle": "italic"
+					}
+				},
+				{
+					"scope": "comment.block",
+					"settings": {
+						"foreground": "#e1ddff"
+					}
+				}
+			]
+		},
+		"[One Dark]": {
+			"textMateRules": [
+				{
+					"scope": "comment",
+					"settings": {
+						"foreground": "#e1ddff",
+						"fontStyle": "italic"
+					}
+				}
+			]
+		}
+	},
+	"editor.cursorStyle": "line",
+	"editor.cursorBlinking": "expand",
+	"editor.mouseWheelZoom": true,
+	"editor.smoothScrolling": true,
+	"editor.lineHeight": 0,
+	"editor.tabSize": 2,
+	"editor.formatOnSave": true,
+	"editor.stickyScroll.enabled": false,
+	"editor.lineNumbers": "off",
+	"editor.fontFamily": "roboto",
+	"editor.fontWeight": "bold",
+	"editor.glyphMargin": false,
+	"editor.folding": true,
+	"editor.formatOnPaste": true,
+	"editor.minimap.enabled": false,
+	"editor.formatOnType": true,
+
+	//Breadcrumbs
+	"breadcrumbs.enabled": false,
+	"breadcrumbs.showKeys": false,
+	"breadcrumbs.showFiles": false,
+	"breadcrumbs.symbolPath": "off",
+	"breadcrumbs.showBooleans": false,
+	"breadcrumbs.showClasses": false,
+	"breadcrumbs.showConstants": false,
+	"breadcrumbs.showConstructors": false,
+	"breadcrumbs.showEnumMembers": false,
+	"breadcrumbs.showEvents": false,
+	"breadcrumbs.showFields": false,
+	"breadcrumbs.showEnums": false,
+	"breadcrumbs.showFunctions": false,
+	"breadcrumbs.showInterfaces": false,
+	"breadcrumbs.showMethods": false,
+	"breadcrumbs.showModules": false,
+	"breadcrumbs.showNamespaces": false,
+	"breadcrumbs.showNull": false,
+	"breadcrumbs.showNumbers": false,
+	"breadcrumbs.showObjects": false,
+	"breadcrumbs.showOperators": false,
+	"breadcrumbs.showPackages": false,
+	"breadcrumbs.showProperties": false,
+	"breadcrumbs.showStrings": false,
+	"breadcrumbs.showStructs": false,
+	"breadcrumbs.showTypeParameters": false,
+	"breadcrumbs.showVariables": false,
+	"breadcrumbs.icons": false,
+	"breadcrumbs.showArrays": false,
+
+	//Other
+	"terminal.integrated.cursorStyleInactive": "line",
+	"terminal.integrated.defaultProfile.linux": "zsh",
+	"chat.commandCenter.enabled": false,
+	"csharp.suppressProjectJsonWarning": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"workbench.iconTheme": "helium-icon-theme",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"explorer.confirmPasteNative": false,
+	"window.menuBarVisibility": "compact",
+	"window.commandCenter": false,
+	"git.openRepositoryInParentFolders": "never",
+	"liveServer.settings.donotVerifyTags": true,
+	"workbench.colorTheme": "Tokyo City",
+	"window.titleBarStyle": "custom"
+}

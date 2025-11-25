@@ -1,0 +1,55 @@
+[
+	//Create New file & folder
+	{
+		"key": "a",
+		"command": "explorer.newFile",
+		"when": "filesExplorerFocus && !inputFocus"
+	},
+	{
+		"key": "ctrl+a",
+		"command": "explorer.newFolder",
+		"when": "filesExplorerFocus && !inputFocus"
+	},
+
+	//Tabs
+	{
+		"key": "ctrl+tab",
+		"command": "-workbench.action.quickOpenPreviousRecentlyUsedEditorInGroup",
+		"when": "!activeEditorGroupEmpty"
+	},
+	{
+		"key": "ctrl+tab",
+		"command": "-workbench.action.quickOpenNavigateNextInEditorPicker",
+		"when": "inEditorsPicker && inQuickOpen"
+	},
+	{
+		"key": "ctrl+tab",
+		"command": "workbench.action.nextEditor"
+	},
+
+	//Snippets
+	{
+		"key": "ctrl+1",
+		"command": "editor.action.insertSnippet",
+		"args": {
+			"name": "JS Single-line Comment"
+		},
+		"when": "editorTextFocus && editorLangId == 'javascript'"
+	},
+	{
+		"key": "ctrl+2",
+		"command": "editor.action.insertSnippet",
+		"args": {
+			"name": "CSS Comment"
+		},
+		"when": "editorTextFocus && editorLangId == 'css'"
+	},
+	{
+		"key": "ctrl+3",
+		"command": "editor.action.insertSnippet",
+		"args": {
+			"name": "html Comment"
+		},
+		"when": "editorTextFocus && editorLangId == 'html'"
+	}
+]
