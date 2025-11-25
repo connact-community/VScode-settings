@@ -1,7 +1,6 @@
 <p align="center"><img src=".github/img/img.png"></p>
 
-> **Note:**  
-> My settings, snippets, and hotkeys for VScode.<br>
+<p>My settings, snippets, and hotkeys for VScode.</p>
 
 <p align="center">
 <a href="https://github.com/connact-community/VScode-settings/blob/main/settings.json"><img src="https://img.shields.io/badge/Settings-B4CDE6?style=for-the-badge&logo=gear&logoColor=black" alt="Settings"></a>
