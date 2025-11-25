@@ -4,9 +4,9 @@
 > My settings, snippets, and hotkeys for VScode.<br>
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Settings-B4CDE6?style=for-the-badge&logo=gear&logoColor=black" alt="Settings"></a>
-<a href="#"><img src="https://img.shields.io/badge/Snippets-C9A8DE?style=for-the-badge&logo=gear&logoColor=black" alt="Snippets"></a>
-<a href="#"><img src="https://img.shields.io/badge/KeyBindings-A5D6A7?style=for-the-badge&logo=keyboard&logoColor=black" alt="KeyBindings"></a></a>
+<a href="https://github.com/connact-community/VScode-settings/blob/main/settings.json"><img src="https://img.shields.io/badge/Settings-B4CDE6?style=for-the-badge&logo=gear&logoColor=black" alt="Settings"></a>
+<a href="https://github.com/connact-community/VScode-settings/tree/main/snippets"><img src="https://img.shields.io/badge/Snippets-C9A8DE?style=for-the-badge&logo=gear&logoColor=black" alt="Snippets"></a>
+<a href="https://github.com/connact-community/VScode-settings/blob/main/keybindings.json"><img src="https://img.shields.io/badge/KeyBindings-A5D6A7?style=for-the-badge&logo=keyboard&logoColor=black" alt="KeyBindings"></a></a>
 </p>
 
 # Extensions
