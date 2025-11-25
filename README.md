@@ -1,6 +1,6 @@
 <p align="center"><img src=".github/img/img.png"></p>
 
-> **ℹ️ Note**  
+> **Note:**  
 > My settings, snippets, and hotkeys for VScode.<br>
 
 <p align="center">
