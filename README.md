@@ -1,4 +1,4 @@
-<p align="center"><img src=".github/img/img.png"></p>
+<p align="center"><img src=".github/img/header.png"></p>
 
 <p>My settings, snippets, and hotkeys for VScode.</p>
 
