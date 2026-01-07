@@ -127,7 +127,6 @@
 	"workbench.editor.editorActionsLocation": "hidden",
 	"workbench.editor.empty.hint": "hidden",
 	"workbench.iconTheme": "a-file-icon-vscode",
-	"workbench.colorTheme": "Everforest Dark",
 	"workbench.layoutControl.enabled": false,
 	"workbench.activityBar.location": "hidden",
 	"workbench.startupEditor": "none",
@@ -143,5 +142,7 @@
 	"chat.commandCenter.enabled": false,
 	"csharp.suppressProjectJsonWarning": true,
 	"git.openRepositoryInParentFolders": "never",
-	"git.confirmSync": false
+	"git.confirmSync": false,
+	"workbench.productIconTheme": "material-product-icons",
+	"workbench.colorTheme": "Correia Github+EverForest Theme"
 }
