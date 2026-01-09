@@ -79,7 +79,7 @@
 	"editor.stickyScroll.enabled": false,
 	"editor.lineNumbers": "off",
 	"editor.fontFamily": "roboto",
-	"editor.fontWeight": "bold",
+	"editor.fontWeight": "500",
 	"editor.glyphMargin": false,
 	"editor.folding": false,
 	"editor.formatOnPaste": true,
@@ -144,5 +144,6 @@
 	"git.openRepositoryInParentFolders": "never",
 	"git.confirmSync": false,
 	"workbench.productIconTheme": "material-product-icons",
-	"workbench.colorTheme": "Correia Github+EverForest Theme"
+	"workbench.colorTheme": "Correia Github+EverForest Theme",
+	"update.showReleaseNotes": false
 }
