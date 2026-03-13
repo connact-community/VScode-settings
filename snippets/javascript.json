@@ -1,0 +1,7 @@
+{
+	"JS Single-line Comment": {
+		"prefix": "cmt",
+		"body": ["// ============= ${1:Comment}$0 ============= //"],
+		"description": "JS-Comment"
+	}
+}

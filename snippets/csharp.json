@@ -1,0 +1,7 @@
+{
+    "C# Comment": {
+        "prefix": "cmt",
+        "body": ["// ${1:Comment}"],
+        "description": "C# Comment"
+    }
+}
